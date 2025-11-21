@@ -2,7 +2,9 @@
 
 This is the repository for the paper [RAcQUEt: Unveiling the Dangers of Overlooked Referential Ambiguity in Visual LLMs](https://aclanthology.org/2025.emnlp-main.1206/) (EMNLP 2025).
 
-RAcQUEt is a carefully curated dataset designed to examine **referential ambiguity in image-based question answering** by introducing a testbed targeting distinct aspects of ambiguity. The dataset comprises **740 manually curated pairs** of images and ambiguous referential questions in English. RAcQUEt is publicly available at: [https://zenodo.org/records/17658707](https://zenodo.org/records/17658707).
+RAcQUEt is a carefully curated dataset designed to examine **referential ambiguity in image-based question answering** by introducing a testbed targeting distinct aspects of ambiguity. The dataset comprises **740 manually curated pairs** of images and ambiguous referential questions in English. 
+
+RAcQUEt is **publicly available** at: [https://zenodo.org/records/17658707](https://zenodo.org/records/17658707).
 
 ---
 
